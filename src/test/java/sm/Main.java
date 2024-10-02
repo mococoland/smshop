@@ -11,7 +11,7 @@ import edu.sm.service.ReviewService;
 import java.util.List;
 
 
-public class Main {
+public class Main { // test
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice = -1;
